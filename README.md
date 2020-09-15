@@ -1,6 +1,6 @@
 # cartomapboxing
 
-Landing page for a Carto and Mapbox workshop given as part of the VKC Libraries Data and Visualization workshop.
+Landing page for a Carto and Mapbox workshop given as part of the USC Libraries Data and Visualization workshop.
 
 
 
